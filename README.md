@@ -2,7 +2,7 @@
 
 ## Moshi Moshii Watashiwa Wahyu deshhh..👋
 
-I am Fullstack Developer. Find out more about me & feel free to connect with me here:
+Insya Allah Human With Fullstack Developer. Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-_wahyukurnia-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_wahyukurnia/)](https://instagram.com/_wahyukurnia)
 [![Gmail Badge](https://img.shields.io/badge/-wahyukurnia321123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:wahyukurnia321123@gmail.com)](mailto:wahyukurnia321123@gmail.com)
