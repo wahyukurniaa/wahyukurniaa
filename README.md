@@ -6,7 +6,7 @@ Insya Allah Human With Fullstack Developer. Find out more about me & feel free t
 
 <h3 align="left">Primary Language</h3>
 <p align="left"> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 [![Instagram Badge](https://img.shields.io/badge/-_wahyukurnia-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_wahyukurnia/)](https://instagram.com/_wahyukurnia)
