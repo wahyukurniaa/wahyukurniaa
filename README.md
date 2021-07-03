@@ -2,7 +2,7 @@
 
 ## Moshi Moshii Watashiwa Wahyu deshhh..👋
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me here
 
 <h3 align="left">Languages/Tools</h3>
 <p align="left"> 
