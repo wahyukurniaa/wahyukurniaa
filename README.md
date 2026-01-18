@@ -5,7 +5,7 @@
 I'm a Random Guy to Interesting about Programming HAHA!!
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivaan-ranawat/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-kurnia-537476163/)
 
 ## 🛠 Skills (in any order)
-Next, React, Python, Java, Kotlin, Spark, Flutter, Dart, Javascript, TypeScript, React Native, Docker, AWS, FastMCP, FastAPI, Firebase, Supabase, Node, MongoDB, Prisma, SQL (Postgres, SQLite), HTML, CSS, Git
+Next, React, Python, Java, Kotlin, Spark, Flutter, Dart, Javascript, TypeScript, React Native, Docker, AWS, FastMCP, FastAPI, Firebase, Supabase, Upwrite, Node, MongoDB, Prisma, SQL (Postgres, SQLite), HTML, CSS, Git
