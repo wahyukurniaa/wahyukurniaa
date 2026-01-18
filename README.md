@@ -1,6 +1,6 @@
 # Hi, I'm Wahyu Kurnia! 👋
 
-![Wahyu's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
+![Wahyu's github stats](https://github-readme-stats.vercel.app/api?username=wahyukurniaa&show_icons=true&theme=react)
 ## 🚀 About Me
 I'm a Random Guy to Interesting about Programming HAHA!!
 
